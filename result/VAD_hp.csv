@@ -1,4 +1,4 @@
-Metric,Sentence Num,Sentence Idx,Difference/Correlation,English Value,Japanese Value,English Timestamp,English Sentence,Japanese Timestamp,Japanese Sentence
+Metric,Sentence Num,Sentence Idx,Difference/Correlation,English Value,Chinese Value,English Timestamp,English Sentence,Chinese Timestamp,Chinese Sentence
 Euclidean,1,613,0.816871166229248,"(1.1458888, 0.88162994, 0.92954475)","(0.35450947, 0.7444643, 0.78060573)","01:07:11,770 --> 01:07:13,440",Splendid!,"01:07:11,770 --> 01:07:13,440",好极了
 Euclidean,2,640,0.7680826187133789,"(0.8205999, 0.82067037, 0.8144634)","(0.31684712, 0.42531148, 0.3903462)","01:11:19,560 --> 01:11:23,520",- What?  - Anything!,"01:11:19,560 --> 01:11:23,520",- 什么办法？  - 什么办法都行
 Euclidean,3,641,0.7275742888450623,"(0.0436077, 0.85279155, 0.8371185)","(0.46992338, 0.42917877, 0.42703128)","01:11:24,150 --> 01:11:26,610",- Hurry up! - Swish and flick.,"01:11:24,150 --> 01:11:26,610",- 快点  - 挥和弹
